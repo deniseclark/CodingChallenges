@@ -19,6 +19,8 @@ import java.util.Scanner;
 // ***               Return a "-1" to the Caller if the Request Cannot be  ***
 // ***               Met.                                                  ***
 // ***                                                                     ***
+// *** 06-NOV-2017 - Project used in Git and GitHub Demo                   ***
+// ***                                                                     ***
 // ***************************************************************************
 public class MakeChocolateApp {
 
